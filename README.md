@@ -15,4 +15,4 @@ https://chromedriver.chromium.org/
 #### WebScreenQRCode
 > 也是用ChromeDriver爬取
 > 
-> 爬取YouTube直播分享节点二维码并解析会链接地址
+> 爬取YouTube直播分享节点二维码并解析为链接地址
