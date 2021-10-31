@@ -11,7 +11,7 @@ options.add_argument('headless')
 options.binary_location = "/opt/apps/cn.google.chrome/files/google-chrome"
 driver = webdriver.Chrome('chromedriver', options=options)
 driver.minimize_window()
-driver.get("https://www.youtube.com/watch?v=Lc21evKC1jg")
+driver.get("https://www.youtube.com/watch?v=a_8_CRE_RhU")
 
 
 def get_QR_doe():
